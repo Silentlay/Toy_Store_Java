@@ -8,3 +8,13 @@ Toy{id=3, name='Кукла', frequency=6}
 Toy{id=3, name='Кукла', frequency=6}
 Toy{id=3, name='Кукла', frequency=6}
 Toy{id=1, name='Конструктор', frequency=2}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=1, name='Конструктор', frequency=2}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=3, name='Кукла', frequency=6}
+Toy{id=3, name='Кукла', frequency=6}
